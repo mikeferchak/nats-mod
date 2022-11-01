@@ -1,0 +1,22 @@
+{
+  "name": "Solo Nationals 2018 - East",
+  "description": "Solo Nationals 2018 East course",
+  "tags": [
+    "autocross",
+    "nationals"
+  ],
+  "geotags": [
+    "lat",
+    "lon"
+  ],
+  "country": "USA",
+  "city": "Lincoln",
+  "length": "1000m",
+  "width": "15m",
+  "pitboxes": "2",
+  "run": "",
+  "author": "Mike Ferchak",
+  "version": "2022.8.26",
+  "year": 2022,
+  "url": null
+}
